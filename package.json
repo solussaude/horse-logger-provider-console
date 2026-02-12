@@ -1,0 +1,8 @@
+{
+    "name": "horse-logger-provider-console",
+    "version": "1.0.0",
+    "repository": "https://github.com/solussaude/horse-logger-provider-console.git",
+    "license": "MIT",
+    "packageManager": "yarn@4.12.0",
+    "private": true
+}
